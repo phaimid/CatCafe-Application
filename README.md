@@ -1,6 +1,8 @@
 This is a small user app for a Cat Cafe made in java, using a database in order to store data.
 The code uses a local database in postgres, but the lines refferencing it can simply be changed for it to work with any other database.
 For the sake of the app, it also includes a declaration code for a sql database with which one can test it out.
+The frontend is done using java swing and it's incredibly barebones. :]
+
 
 The cat cafe app has the following functions:
 
